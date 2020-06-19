@@ -1,2 +1,2 @@
-# Quandle
-Importing External data from quandle
+# Quandl
+Importing External data from quandl
